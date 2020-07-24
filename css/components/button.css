@@ -1,0 +1,14 @@
+.btn-primary {
+  background: #FFCC3A;
+  color: white;
+  font-weight: bolder;
+  padding: 8px 16px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.btn-primary:hover {
+  background-color: white;
+  color: #FFCC3A;
+  transition: 1s ease;
+}
